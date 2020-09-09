@@ -1,6 +1,11 @@
 #pics img{
-width: 400px;
-height:400px;
+    width: 350px;
+    height:350px;
+    }
+
+#pics video{
+    width: 400px;
+height:350px;
 }
 
 #logo img{
@@ -29,7 +34,7 @@ text-align:left;
     justify-content:space-between;
 }
 
-h3{
+h3, h2{
     text-align: center;
     color:brown;
 }
