@@ -5,7 +5,9 @@ height:400px;
 
 #logo img{
     width: 150px;
-    height: 100px;
+    height: 130px;
+    text-align: center;
+    margin-left: 100px;
 }
 
 nav{
